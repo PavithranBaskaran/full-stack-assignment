@@ -1,3 +1,5 @@
+
+
 .right {
   cursor: pointer;
 }
@@ -52,4 +54,8 @@
   font-size: 24px;
   font-weight: 600;
   padding: 16px 32px;
+}
+
+.filter{
+  cursor: pointer;
 }

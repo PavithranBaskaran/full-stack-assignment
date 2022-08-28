@@ -35,6 +35,7 @@ function Heading() {
       <div className="container mt-5 d-flex justify-content-center">
         <h3 className="Title fw-normal">Unsplash Infinite Scroll</h3>
       </div>
+      
     </>
   );
 }
